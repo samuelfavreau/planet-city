@@ -1,1 +1,5 @@
-# planet-city
+# Planet city
+
+Le projet est un jeu de gestion dans lequel il faut construire et de gérer une ville sur une planète inconnue en se servant des ressources accessibles. Pour ce faire, il faut ajouter des arbres, des bâtiments et des maisons pour équilibrer la qualité de l'air et le budget. Les bâtiments rapportent de l'argent lorsqu'ils sont accompagnés d'une maison, mais font baisser la qualité de l'air. Les arbres permettent d'augmenter la qualité de l'air, mais ne rapportent aucun profit. Les maisons augmentent le budget s'ils sont accompagnés d'un bâtiment, mais ne peuvent être construits que si un arbre a été coupé au préalable. La partie se termine lorsque le budget tombe à 0$ ou si la qualité de l'air atteint 0%. Occasionnellement, une tornade passera et détruira tout sur son passage.
+
+Pour ajouter des éléments sur la carte, appuyez sur les boutons prévus à cet effet sur le panneau de contrôle. Pour ajouter plusieurs éléments sur la carte, servez-vous des glissières pour ajuster la largeur et la hauteur du paquet d'éléments à ajouter sur la carte. Pour effacer des éléments, cliquez sur le bouton de l'efface et cliquez sur les éléments à retirer avec la souris. Un tableau indiquant le budget, la qualité de l'air et la quantité de bois est présent pour garder le compte des ressources.
